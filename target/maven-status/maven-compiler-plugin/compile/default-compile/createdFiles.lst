@@ -1,0 +1,6 @@
+spacex\satellite\satellite\repositories\SatelliteRepository.class
+spacex\satellite\satellite\repositories\ISatelliteRepository.class
+spacex\satellite\satellite\services\SatelliteService.class
+spacex\satellite\satellite\api\SatelliteController.class
+spacex\satellite\satellite\models\Satellite.class
+spacex\satellite\satellite\SatelliteApplication.class
